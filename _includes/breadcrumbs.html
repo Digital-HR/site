@@ -1,0 +1,14 @@
+<nav id="wb-bc" property="breadcrumb">
+  <h2>{{ site.data.i18n.general.head.youarehere[page.lang] }}:</h2>
+  <div class="container">
+    <ol class="breadcrumb">
+      <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.home.link[page.lang] }}">{{ site.data.i18n.general.nav.home[page.lang] }}</a></li>
+
+      {%- if page.ref == 'team' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.team.link[page.lang] }}">{{ site.data.i18n.general.nav.team[page.lang] }}</a></li>
+      {%- elsif page.ref == 'mandate' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.mandate.link[page.lang] }}">{{ site.data.i18n.general.nav.mandate[page.lang] }}</a></li>
+      {%- endif -%}
+    </ol>
+  </div>
+</nav>

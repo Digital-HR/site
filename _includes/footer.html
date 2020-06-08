@@ -1,0 +1,52 @@
+</main>
+
+{% if page.lang == 'fr' %}
+<footer role="contentinfo" id="wb-info">
+  <nav role="navigation" class="container wb-navcurr">
+    <h2 class="wb-inv">Au sujet du gouvernement</h2>
+    <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+      <li><a href="https://www.canada.ca/en/mobile.html#HRGO">Application mobile HR GO</a></li>
+      <li><a href="https://github.com/Digital-HR">Github</a></li>
+      <li><a href="https://github.com/Digital-HR">Signaler un problème</a></li>
+    </ul>
+  </nav>
+  <div class="brand">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 visible-sm visible-xs tofpg">
+          <a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+{% else %}
+<footer role="contentinfo" id="wb-info">
+  <nav role="navigation" class="container wb-navcurr">
+    <h2 class="wb-inv">Footer Elements</h2>
+    <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+      <li><a href="https://www.canada.ca/en/mobile.html#HRGO">HR GO Mobile application</a></li>
+      <li><a href="https://github.com/Digital-HR">Github</a></li>
+      <li><a href="https://github.com/Digital-HR">Report an Issue</a></li>
+    </ul>
+  </nav>
+  <div class="brand">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 visible-sm visible-xs tofpg">
+          <a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+{% endif %}
+
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="{{ site.wet_cdts_hosturl }}/{{ site.wet_cdts_version }}/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="{{ site.wet_cdts_hosturl }}/{{ site.wet_cdts_version }}/js/ie8-wet-boew2.min.js"></script>
+<![endif]-->
+<script src="{{ site.wet_cdts_hosturl }}/{{ site.wet_cdts_version }}/js/theme.min.js"></script>
