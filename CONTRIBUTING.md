@@ -2,7 +2,7 @@
 
 ([Français](#comment-contribuer))
 
-## How to Contribute
+## How to Contribute 
 
 When contributing, post comments and discuss changes you wish to make via [Issues](https://github.com/canada-ca/open-source-logiciel-libre/issues).
 
