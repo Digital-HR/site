@@ -2,7 +2,7 @@
 layout: default
 ref: productdev
 lang: en
-permalink: /en/product-development.md
+permalink: /en/product-development.html
 ---
 
 # Product Development
