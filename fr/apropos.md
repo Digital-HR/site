@@ -8,6 +8,10 @@ Faire!
 
 L’appli GO RH fourni des renseignements essentiels en matière de RH au moyen d’articles, de personnes-ressources, de révisions, de liens vers des ressources en ligne et de calculateurs.
 
+* Lien vers le logiciel : https://www.canada.ca/fr/mobile.html#GORH
+
 ### Carrières MDN
 
 ...
+
+* Lien vers le logiciel : https://carrieres-civiles-defense.canada.ca/
