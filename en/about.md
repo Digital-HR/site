@@ -19,5 +19,5 @@ DND Careers is a Web App that enables candidates to create an online profile and
 ## Services
 
 * R&D
-* [Product Development](./product-development.md)
+* [Product Development](./product-development.html)
 * UI/UX Design
