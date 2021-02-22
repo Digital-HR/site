@@ -8,7 +8,7 @@ We don't believe in reinventing the wheel, here's the resources we use to suppor
 ## Technical Resources
 * [Canadian Digital Service - Technical Playbook](https://cds-snc.github.io/technical-playbook-manuel-technique/)
 * [ESDC IT Strategy](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html)
-  * [The Case for Continous Improvement](https://sara-sabr.github.io/ITStrategy/2019/10/15/case-continuous-improvement.html)
+  * [The Case for Continuous Improvement](https://sara-sabr.github.io/ITStrategy/2019/10/15/case-continuous-improvement.html)
   * [Proof](https://sara-sabr.github.io/ITStrategy/2019/11/13/case-continuous-improvement-deeper-dive.html)
 * Guide to Digital Technology for Executives
   * [Video Series](https://www.youtube.com/watch?v=T5SWWiOATt4&list=PL0xmTkOvLDzKiaRECryOxl_DbTo8phQcD)
