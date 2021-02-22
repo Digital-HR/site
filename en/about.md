@@ -11,3 +11,5 @@ The HR GO App provides critical HR information to public service managers and st
 * Link to Application : https://www.canada.ca/en/mobile.html#HRGO
 
 ### DNDCareers
+
+* Link to Application : https://civilian-careers-defence.canada.ca/
