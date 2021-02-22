@@ -88,6 +88,18 @@ defaults:
     values:
         lang: "en"
         ref: "mandate"
+  - 
+    scope:
+      path: "fr/developpement-de-produits.md"
+    values:
+      lang: "fr"
+      ref: "productdev"
+  - 
+    scope:
+        path: "en/product-development.md"
+    values:
+        lang: "en"
+        ref: "productdev"
 
 optional_front_matter:
   remove_originals: true
