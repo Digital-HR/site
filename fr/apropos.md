@@ -1,6 +1,6 @@
 # À propos de nous
 
-Faire!
+Nous sommes une équipe de technologie numérique qui soutient les ressources humaines du ministère de la défense nationale. Nous sommes une équipe diversifiée qui privilégie la transparence et les personnes aux processus.
 
 ## Nos produits et services
 
