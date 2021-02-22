@@ -12,6 +12,6 @@ L’appli GO RH fourni des renseignements essentiels en matière de RH au moyen 
 
 ### Carrières MDN
 
-...
+Carrières MDN est une application Web qui permet aux candidats de créer un profil en ligne et d'avoir la possibilité d'être contactés pour un poste.
 
 * [Lien vers le logiciel](https://carrieres-civiles-defense.canada.ca/)
