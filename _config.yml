@@ -100,6 +100,18 @@ defaults:
     values:
         lang: "en"
         ref: "productdev"
-
+  - 
+    scope:
+      path: "fr/ressources.md"
+    values:
+      lang: "fr"
+      ref: "resources"
+  - 
+    scope:
+        path: "en/resources.md"
+    values:
+        lang: "en"
+        ref: "resources"
+        
 optional_front_matter:
   remove_originals: true
