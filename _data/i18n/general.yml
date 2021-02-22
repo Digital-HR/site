@@ -50,6 +50,12 @@ nav:
     link:
       en: /en/mandate.html
       fr: /fr/mandat.html
+  productdev:
+    en: Product Development
+    fr: Développement de produits
+    link:
+      en: /en/product-development.html
+      fr: /fr/developpement-de-produits.html
   Canada:
     en: Government of Canada
     fr: Gouvernement du Canada
