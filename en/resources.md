@@ -13,6 +13,8 @@ We don't believe in reinventing the wheel, here's the resources we use to suppor
 * Guide to Digital Technology for Executives
   * [Video Series](https://www.youtube.com/watch?v=T5SWWiOATt4&list=PL0xmTkOvLDzKiaRECryOxl_DbTo8phQcD)
   * [Content](https://github.com/ToferC/digital-for-executives)
+* [TBS Open Source Guidance](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software.html)
+* [Open Resource Exchange](https://code.open.canada.ca/)
 
 ## Official Languages
 * [TERMIUM Plus](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng)
