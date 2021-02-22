@@ -1,6 +1,6 @@
 # About Us
 
-To do!
+We're a Digital Technology Team supporting Human Resources in the Department of National Defense. We're a diverse team that values transparency and people over processes.
 
 ## Our Products
 
