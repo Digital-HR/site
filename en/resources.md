@@ -7,3 +7,7 @@ We don't believe in reinventing the wheel, here's the resources we use to suppor
 
 ## Technical Resources
 * [Canadian Digital Service - Technical Playbook](https://cds-snc.github.io/technical-playbook-manuel-technique/)
+
+## Official Languages
+* [TERMIUM Plus](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng)
+* [DeepL Translate](https://www.deepl.com/en/translator)
