@@ -19,5 +19,5 @@ Carrières MDN est une application Web qui permet aux candidats de créer un pro
 ## Services
 
 * R&D
-* Développement de produits
+* [Développement de produits](/fr/developpement-de-produits.html)
 * Conception UI/UX
