@@ -26,7 +26,7 @@ The team has four milestones as well:
 
 ## Product Backlog
 
-The Product Backlog is a list of requirements, or tasks to complete in order to develop a product that meets the clients needs. It is also used as the teams way to track the work they've completed, and the priority of each requests Each task is assigned a type based on the task to be completed :
+The Product Backlog is a list of requirements, or tasks to complete in order to develop a product that meets the clients needs. It is also used as the teams way to track the work they've completed, and the priority of each request. Each task is assigned a type based on the task to be completed :
 
 * Bugs : Something that isn't working as intended.
 * Enhancements : Updates in functionality or new features.
