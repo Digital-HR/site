@@ -1,31 +1,49 @@
+# The Application Development Team
+
+The Application Development Team is comprised of Developers who support the team's vision. The vision is to develop digital HR products that provide information, resources and tools anytime anywhere to the Defence Team members who need access to HR.
+
 # Product Development
 
-Our products are supported through the following lifecycle.
+The teams current focus is on efforts in the HR-GO-RH Application and the DNDCareers Recruitment Platform. These products are supported through the following lifecycle, a form of agile methodology.
 
 # Product Vision
 
-Prior to any work, the team needs to understand why the product is being created. This can help us ensure we're building something of value, and that we aren't just taking a process and making it electronic.
+Prior to any work, the team needs to understand why the product is being created. This will help them ensure they are building something of value. That our products are effecient, and reduce manual or reptitive workloads, and that they aren't just taking a process and making it electronic.
 
-# Product Backlog
+# Our Agile Methodology
+The Agile method of work the team uses is an iterative development methodology that values human communication and feedback, adapting to change, and producing work results. The team follows four guiding values:
 
-The Product Backlog is a list of requirements. Our way to track the work we've done, and the priority of requests. It contains a list of :
+* Individuals and Interactions over process and tools;
+* Working products over comprhensive documentation;
+* Client collaboration over contract negotation;
+* Responding to change over following a plan;
+
+The team has four milestones as well:
+* Daily Standups
+* Sprint Planning
+* Sprint Review
+* Sprint Retrospective
+
+## Product Backlog
+
+The Product Backlog is a list of requirements, or tasks to complete in order to develop a product that meets the clients needs. It is also used as the teams way to track the work they've completed, and the priority of each requests Each task is assigned a type based on the task to be completed :
 
 * Bugs : Something that isn't working as intended.
 * Enhancements : Updates in functionality or new features.
-* CI/CD & Process : Changes related to how we continously Integrate, Continously Deploy or Processes.
+* CI/CD & Process : Changes related to how the team will continously integrate, continously deploy or a processes.
 * Discussion : A prompt to talk, and make decisions and other items for the Backlog.
 * Documentation : Updates or changes to our documentation.
 * Refactor : Addressing Technical Debt.
 * Test : Adding, changing, improving or moving automated tests. 
 
-# Sprint Backlog
+## Sprint Backlog
 
-The Sprint Backlog is a our teams workload over a 3 week window. We've committed to deliver the items selected in the backlog based on the priority of items in the product backlog.
+The Sprint Backlog is a the teams workload over a 3-week window. The team has committed to deliver the items selected in the backlog based on the priority of each task in the Product Backlog.
 
-# Testing & Release!
+## Testing & Release!
 
-At the end of the three week window, we demonstrate our work, further test it, and then release - or learn from our previous efforts to improve in the future.
+At the end of the three week window, the team demonstrate to the client the progress completed within the sprint. It completes further tests, and then releases the completed tasks. Lessons learned are captured and document in order to ensure these efforts are not wasted and not wasted and can help improve team efficiency (velocity) for future sprints.
 
-# Retrospective
+## Retrospective
 
-After it all, our team meets all together to discuss how we can further improve. We're always open to suggestions, and so honest feedback can incite us to tweek what we're doing. This way our process is always evolving, and always focused on people first.
+The team meets internally to discuss how they can further improve. The point of the discussion is to be open to suggestions, in order to ensure honest feedback is given which can incite members to improve their method of work. This gaurantees the process is always evolving, and always focused on people first.
