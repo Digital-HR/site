@@ -42,7 +42,7 @@ The Product Backlog is a list of requirements, or tasks to complete in order to 
 
 ## Sprint Planning
 
-...
+Prior to any work, the team meets to plan the work going into the Sprint. After items are selected, the team uses an activity called "Planning Poker" to make estimations around the workload of tasks.
 
 ## Sprint Backlog
 
@@ -50,7 +50,7 @@ The Sprint Backlog is a the teams workload over a 3-week window. The team has co
 
 ## Sprint Review
 
-...
+The Sprint Review is an opportunity for the team to share in an open meeting the progress of the Sprint. Developers walk through the task they've completed with stakeholders.
 
 ### Testing & Release!
 
@@ -62,4 +62,4 @@ The team meets internally to discuss how they can further improve. The point of 
 
 ## Daily Standups
 
-...
+Every day the team meets to discuss the current progress of the sprint, and give a chance to address any challenges that might occur. The team avoids status updates, and instead a focus on how we can continue to help each other and share information.
