@@ -8,9 +8,9 @@ The teams current focus is on efforts in the HR-GO-RH Application and the DNDCar
 
 # Product Vision
 
-Prior to any work, the team needs to understand why the product is being created. This will help them ensure they are building something of value. That our products are effecient, and reduce manual or reptitive workloads, and that they aren't just taking a process and making it electronic.
+Prior to any work, the team needs to understand why the product is being created. This will help them ensure they are building something of value. The teams focuses on products that are effecient, and reduce manual or reptitive workloads, and that they aren't just taking a process and making it electronic.
 
-# Our Agile Methodology
+# The Teams Agile Methodology
 The Agile method of work the team uses is an iterative development methodology that values human communication and feedback, adapting to change, and producing work results. The team follows four guiding values:
 
 * Individuals and Interactions over process and tools;
@@ -36,7 +36,7 @@ The Product Backlog is a list of requirements, or tasks to complete in order to 
 * Enhancements : Updates in functionality or new features.
 * CI/CD & Process : Changes related to how the team will continously integrate, continously deploy or a processes.
 * Discussion : A prompt to talk, and make decisions and other items for the Backlog.
-* Documentation : Updates or changes to our documentation.
+* Documentation : Updates or changes to the teams documentation.
 * Refactor : Addressing Technical Debt.
 * Test : Adding, changing, improving or moving automated tests.
 
