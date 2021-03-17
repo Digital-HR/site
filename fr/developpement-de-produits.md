@@ -4,7 +4,7 @@ L'équipe de développement d'applications est composée de développeurs qui so
 
 # Développement de produits
 
-L'équipe se concentre actuellement sur les efforts de l'application HR-GO-RH et de la plateforme de recrutement DNDCareers. Ces produits sont soutenus par le cycle de vie suivant, une forme de méthodologie agile.
+L'équipe se concentre actuellement sur les efforts de développement HR-GO-RH et de la plateforme de recrutement DNDCareers. Ces produits sont soutenus par le cycle de vie suivant une forme de méthodologie agile.
 
 # Vision du produit
 
