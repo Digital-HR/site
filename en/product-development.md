@@ -38,16 +38,28 @@ The Product Backlog is a list of requirements, or tasks to complete in order to 
 * Discussion : A prompt to talk, and make decisions and other items for the Backlog.
 * Documentation : Updates or changes to our documentation.
 * Refactor : Addressing Technical Debt.
-* Test : Adding, changing, improving or moving automated tests. 
+* Test : Adding, changing, improving or moving automated tests.
+
+## Sprint Planning
+
+...
 
 ## Sprint Backlog
 
 The Sprint Backlog is a the teams workload over a 3-week window. The team has committed to deliver the items selected in the backlog based on the priority of each task in the Product Backlog.
 
-## Testing & Release!
+## Sprint Review
+
+...
+
+### Testing & Release!
 
 At the end of the three week window, the team demonstrate to the client the progress completed within the sprint. It completes further tests, and then releases the completed tasks. Lessons learned are captured and document in order to ensure these efforts are not wasted and not wasted and can help improve team efficiency (velocity) for future sprints.
 
-## Retrospective
+## Sprint Retrospective
 
 The team meets internally to discuss how they can further improve. The point of the discussion is to be open to suggestions, in order to ensure honest feedback is given which can incite members to improve their method of work. This gaurantees the process is always evolving, and always focused on people first.
+
+## Daily Standups
+
+...
