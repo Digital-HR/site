@@ -21,12 +21,12 @@ The Agile method of work the team uses is an iterative development methodology t
 ![Agile Methodology Infographic](/site/assets/Agil_Infographic.jpg)
 
 The team has six milestones as well:
-* [Product Backlog](#Product-Backlog)
-* [Sprint Planning](#Sprint-Planning)
-* [Sprint Backlog](#Sprint-Backlog)
-* [Sprint Review](#Sprint-Review)
-* [Sprint Retrospective](#Sprint-Retrospective)
-* [Daily Standups](#Daily-Standups)
+* [Product Backlog](#product-backlog)
+* [Sprint Planning](#sprint-planning)
+* [Sprint Backlog](#sprint-backlog)
+* [Sprint Review](#sprint-review)
+* [Sprint Retrospective](#sprint-retrospective)
+* [Daily Standups](#daily-standups)
 
 ## Product Backlog
 
