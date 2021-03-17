@@ -18,7 +18,7 @@ The Agile method of work the team uses is an iterative development methodology t
 * Client collaboration over contract negotation;
 * Responding to change over following a plan;
 
-![Agile Methodology Infographic][{{ site.baseurl }}/Agil_Infographic.jpg]
+![Agile Methodology Infographic](/assets/Agil_Infographic.jpg)
 
 
 The team has four milestones as well:
