@@ -4,19 +4,19 @@ L'équipe de développement d'applications est composée de développeurs qui so
 
 # Développement de produits
 
-L'équipe se concentre actuellement sur les efforts de développement HR-GO-RH et de la plateforme de recrutement DNDCareers. Ces produits sont soutenus par le cycle de vie suivant une forme de méthodologie agile.
+L'équipe se concentre actuellement sur le développement HR-GO-RH et de la plateforme de recrutement Carrières MDN. Ces produits sont soutenus par le cycle de vie suivant la méthode Agile.
 
 # Vision du produit
 
-Avant tout travail, l'équipe doit comprendre pourquoi le produit est créé. Cela l'aidera à s'assurer qu'elle construit quelque chose de valeur. L'équipe se concentre sur des produits qui sont efficaces, qui réduisent les charges de travail manuelles ou répétitives, et qui ne se contentent pas de prendre un processus et de le rendre électronique.
+Avant tout travail, l'équipe doit comprendre pourquoi le produit est créé. Cela l'aidera à s'assurer qu'elle créé des produits à valeur ajoutée. L'équipe se concentre sur des produits qui sont efficaces, qui réduisent les charges de travail manuelles ou répétitives, et qui ne se limitent pas de prendre un processus et de le rendre électronique.
 
 # La méthodologie agile de l'équipe
 La méthode de travail Agile utilisée par l'équipe est une méthodologie de développement itérative qui valorise la communication humaine et le retour d'information, l'adaptation au changement et la production de résultats. L'équipe suit quatre valeurs directrices :
 
 * Les individus et les interactions plutôt que les processus et les outils ;
-* Les produits de travail plutôt que la documentation exhaustive ;
+* Les produits de résultats concrets travail plutôt que la documentation exhaustive ;
 * La collaboration avec le client plutôt que la négociation de contrats ;
-* Réagir au changement plutôt que de suivre un plan ;
+* La réaction Réagir au changement plutôt que de suivre un plan ;
 
 ![Infographie sur la méthodologie agile](/site/assets/Agil_Infographic.jpg)
 
@@ -26,11 +26,11 @@ L'équipe a également six jalons :
 * [Carnet de sprint](#carnet-de-sprint)
 * [Revue de Sprint](#revue-de-sprint)
 * [Retrospective de Sprint](#retrospective-de-sprint)
-* [Réunion Debout](#réunion-debout)
+* [Réunions Quotidiennes](#réunions-quotidiennes)
 
 ## Backlog de produit
 
-Le carnet de produit est une liste d'exigences ou de tâches à accomplir afin de développer un produit qui répond aux besoins des clients. Il est également utilisé par les équipes pour suivre le travail qu'elles ont accompli et la priorité de chaque demande. Un type est attribué à chaque tâche en fonction de la tâche à accomplir :
+Le backlog de produit est une liste d'exigences ou de tâches à accomplir afin de développer un produit qui répond aux besoins des clients. Il est également utilisé par les équipes pour suivre le travail qu'elles ont accompli et la priorité de chaque demande. Une catégorie est attribuée à chaque tâche en fonction de la tâche à accomplir :
 
 * Bugs : Quelque chose qui ne fonctionne pas comme prévu.
 * Améliorations : Mises à jour de la fonctionnalité ou nouvelles fonctionnalités.
@@ -42,7 +42,7 @@ Le carnet de produit est une liste d'exigences ou de tâches à accomplir afin d
 
 ## Planification du sprint
 
-Avant tout travail, l'équipe se réunit pour planifier le travail du sprint. Une fois les éléments sélectionnés, l'équipe utilise une activité appelée "Poker de planification" pour faire des estimations sur la charge de travail des tâches.
+Avant tout travail, l'équipe se réunit pour planifier les tâches qui feront partie du sprint. Une fois les éléments sélectionnés, l'équipe utilise une activité appelée "Poker de planification" pour faire des estimations sur la charge de travail des tâches.
 
 ## Backlog de sprint
 
@@ -52,14 +52,14 @@ Le Sprint Backlog représente la charge de travail de l'équipe sur une période
 
 La revue du sprint est l'occasion pour l'équipe de partager, dans une réunion ouverte, la progression du sprint. Les développeurs passent en revue les tâches qu'ils ont réalisées avec les parties prenantes.
 
-### Testing & Release !
+### Tests et nouvelle version!
 
 À la fin de la fenêtre de trois semaines, l'équipe démontre au client les progrès réalisés au cours du sprint. Elle effectue des tests supplémentaires, puis publie les tâches terminées. Les leçons apprises sont capturées et documentées afin de s'assurer que ces efforts ne sont pas gaspillés et peuvent aider à améliorer l'efficacité de l'équipe (vélocité) pour les prochains sprints.
 
 ## Rétrospective du sprint
 
-L'équipe se réunit en interne pour discuter de la manière dont elle peut encore s'améliorer. Le but de la discussion est d'être ouvert aux suggestions, afin de s'assurer qu'un feedback honnête est donné, ce qui peut inciter les membres à améliorer leur méthode de travail. Cela garantit que le processus est en constante évolution et qu'il est toujours axé sur les personnes.
+L'équipe se réunit à l’interne pour discuter de la manière dont elle peut encore s'améliorer. Le but de la discussion est d'être ouvert aux suggestions, afin de s'assurer qu'un feedback honnête est donné, ce qui peut inciter les membres à améliorer leur méthode de travail. Cela garantit que le processus est en constante évolution et qu'il est toujours axé sur les personnes.
 
 ## Réunions quotidiennes
 
-Chaque jour, l'équipe se réunit pour discuter de l'état d'avancement du sprint et donner l'occasion de relever les défis qui pourraient se présenter. L'équipe évite les mises à jour de statut, et se concentre plutôt sur la façon dont nous pouvons continuer à nous aider les uns les autres et à partager des informations.
+Chaque jour, l'équipe se réunit pour discuter de l'état d'avancement du sprint et donner l'occasion de relever les défis qui pourraient se présenter. Les membres de l’équipe évitent les mises à jour de statut, et se concentrent plutôt sur la façon dont ils peuvent s’aider les uns les autres et partager des informations.
