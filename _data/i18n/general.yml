@@ -74,6 +74,12 @@ nav:
     link:
       en: /en/role-sm.html
       fr: /fr/role-ms.html
+  productdev_po:
+    en: Product Owner
+    fr: Responsable de Produit 
+    link:
+      en: /en/role-po.html
+      fr: /fr/role-rp.html
   resources:
     en: Resources
     fr: Ressources
