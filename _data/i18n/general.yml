@@ -56,7 +56,7 @@ nav:
     link:
       en: /en/product-development.html
       fr: /fr/developpement-de-produits.html
-  productdev:
+  productdev_env:
     en: Environments
     fr: Environnements
     link:
