@@ -186,13 +186,13 @@ defaults:
         ref: "productdev_sp"
   - 
     scope:
-      path: "fr/environments.md"
+      path: "fr/environnements.md"
     values:
       lang: "fr"
       ref: "productdev_env"
   - 
     scope:
-        path: "en/environnements.md"
+        path: "en/environments.md"
     values:
         lang: "en"
         ref: "productdev_env"
