@@ -10,6 +10,24 @@
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.mandate.link[page.lang] }}">{{ site.data.i18n.general.nav.mandate[page.lang] }}</a></li>
       {%- elsif page.ref == 'productdev' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_po' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_po.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_po[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_sme' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_sme.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_sme[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_sp' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_sp.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_sp[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_dev' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_dev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_dev[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_sm' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_sm.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_sm[page.lang] }}</a></li>
+      {%- elsif page.ref == 'productdev_env' -%}
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev[page.lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.productdev_env.link[page.lang] }}">{{ site.data.i18n.general.nav.productdev_env[page.lang] }}</a></li>
       {%- elsif page.ref == 'resources' -%}
         <li><a href="{{ site.baseurl }}{{ site.data.i18n.general.nav.resources.link[page.lang] }}">{{ site.data.i18n.general.nav.resources[page.lang] }}</a></li>
       {%- endif -%}
