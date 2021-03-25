@@ -112,6 +112,102 @@ defaults:
     values:
         lang: "en"
         ref: "resources"
+  - 
+    scope:
+      path: "fr/developpement-de-produits.md"
+    values:
+      lang: "fr"
+      ref: "productdev"
+  - 
+    scope:
+        path: "en/product-development.md"
+    values:
+        lang: "en"
+        ref: "productdev"
+  - 
+    scope:
+      path: "fr/role-ms.md"
+    values:
+      lang: "fr"
+      ref: "productdev_sm"
+  - 
+    scope:
+        path: "en/role-sm.md"
+    values:
+        lang: "en"
+        ref: "productdev_sm"
+  - 
+    scope:
+      path: "fr/role-rp.md"
+    values:
+      lang: "fr"
+      ref: "productdev_po"
+  - 
+    scope:
+        path: "en/role-po.md"
+    values:
+        lang: "en"
+        ref: "productdev_po"
+  - 
+    scope:
+      path: "fr/role-dev.md"
+    values:
+      lang: "fr"
+      ref: "productdev_dev"
+  - 
+    scope:
+        path: "en/role-dev.md"
+    values:
+        lang: "en"
+        ref: "productdev_dev"
+  - 
+    scope:
+      path: "fr/role-em.md"
+    values:
+      lang: "fr"
+      ref: "productdev_sme"
+  - 
+    scope:
+        path: "en/role-sme.md"
+    values:
+        lang: "en"
+        ref: "productdev_sme"
+  - 
+    scope:
+      path: "fr/role-sp.md"
+    values:
+      lang: "fr"
+      ref: "productdev_sp"
+  - 
+    scope:
+        path: "en/role-sp.md"
+    values:
+        lang: "en"
+        ref: "productdev_sp"
+  - 
+    scope:
+      path: "fr/environments.md"
+    values:
+      lang: "fr"
+      ref: "productdev_env"
+  - 
+    scope:
+        path: "en/environnements.md"
+    values:
+        lang: "en"
+        ref: "productdev_env"
+  - 
+    scope:
+      path: "fr/technical-debt.md"
+    values:
+      lang: "fr"
+      ref: "productdev_techdebt"
+  - 
+    scope:
+        path: "en/dette-technique.md"
+    values:
+        lang: "en"
+        ref: "productdev_techdebt"
         
 optional_front_matter:
   remove_originals: true
