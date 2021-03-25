@@ -62,6 +62,12 @@ nav:
     link:
       en: /en/environments.html
       fr: /fr/environnements.html
+  productdev_techdebt:
+    en: Technical Debt
+    fr: Dette technique
+    link:
+      en: /en/technical-debt.html
+      fr: /fr/dette-technique.html
   productdev_roles:
     en: Roles and Responsibilities
     fr: Rôles et responsabilités
