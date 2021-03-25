@@ -62,6 +62,18 @@ nav:
     link:
       en: /en/environments.html
       fr: /fr/environnements.html
+  productdev_roles:
+    en: Roles and Responsibilities
+    fr: Rôles et responsabilités
+  productdev_concepts:
+    en: Concepts
+    fr: Concepts
+  productdev_sm:
+    en: Scrum Master
+    fr: Maître de Scrum
+    link:
+      en: /en/role-sm.html
+      fr: /fr/role-ms.html
   resources:
     en: Resources
     fr: Ressources
