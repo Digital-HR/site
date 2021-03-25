@@ -198,13 +198,13 @@ defaults:
         ref: "productdev_env"
   - 
     scope:
-      path: "fr/technical-debt.md"
+      path: "fr/dette-technique.md"
     values:
       lang: "fr"
       ref: "productdev_techdebt"
   - 
     scope:
-        path: "en/dette-technique.md"
+        path: "en/technical-debt.md"
     values:
         lang: "en"
         ref: "productdev_techdebt"
