@@ -80,6 +80,24 @@ nav:
     link:
       en: /en/role-po.html
       fr: /fr/role-rp.html
+  productdev_dev:
+    en: Developer
+    fr: Développateur 
+    link:
+      en: /en/role-dev.html
+      fr: /fr/role-dev.html
+  productdev_sme:
+    en: Subject Matter Expert
+    fr: Expert en la Matière 
+    link:
+      en: /en/role-sme.html
+      fr: /fr/role-em.html
+  productdev_sp:
+    en: Sponsor
+    fr: Sponsor 
+    link:
+      en: /en/role-sp.html
+      fr: /fr/role-sp.html
   resources:
     en: Resources
     fr: Ressources
