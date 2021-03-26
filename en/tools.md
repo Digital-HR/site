@@ -24,10 +24,12 @@ To use this tool, [create a personal access token](https://docs.github.com/en/gi
                 <th>ID#</th>
                 <th>Title</th>
                 <th>Labels</th>
+                <th>Milestone</th>
             </tr>
         </thead>
         <tbody>
             <th>0</th>
+            <td>Sample</td>
             <td>Sample</td>
             <td>Sample</td>
         </tbody>
@@ -81,7 +83,11 @@ To use this tool, [create a personal access token](https://docs.github.com/en/gi
     function finishData() {
         issuesList.forEach(function(issue) {
             if (issue.pull_request == undefined) {
-                $("#issues-data").append("<tr><th>"+issue.number+"</th><td>"+issue.title+"</td><td>"+getLabels(issue)+"</td></tr>");
+                milestone = ""
+                if (issue.milestone) {
+                    milestone = issue.milestone.title;
+                }
+                $("#issues-data").append("<tr><th>"+issue.number+"</th><td>"+issue.title+"</td><td>"+getLabels(issue)+"</td><td>"+milestone+"</td></tr>");
             }
         });
         console.log(issuesList);
