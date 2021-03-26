@@ -1,5 +1,7 @@
 # Tools
 
+To use this tool, [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Ensure that this token is NOT shared under any circumstances!
+
 <label for="status-select">Status</label>
 <select id="status-select">
     <option value="open">Open</option>
