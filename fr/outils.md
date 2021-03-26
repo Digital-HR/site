@@ -1,13 +1,13 @@
-# Tools
+# Outils
 
 To use this tool, [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Ensure that this token is NOT shared under any circumstances!
 
-<label for="status-select">Status</label>
+<label for="status-select">Statut</label>
 <select id="status-select">
-    <option value="open">Open</option>
-    <option value="closed">Closed</option>
+    <option value="open">Ouvert</option>
+    <option value="closed">Fermé</option>
 </select>
-<label for="repo-select">Project</label>
+<label for="repo-select">Projet</label>
 <select id="repo-select">
     <option value="https://api.github.com/repos/Digital-HR/RecruitmentApp/issues">DND Careers</option>
     <option>HR-GO</option>
@@ -37,4 +37,3 @@ To use this tool, [create a personal access token](https://docs.github.com/en/gi
 </div>
 
 {% include tools.html %}
-

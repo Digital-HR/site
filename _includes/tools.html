@@ -1,0 +1,67 @@
+<script>
+    jQuery(document).ready(function ($) {
+        $("#export-btn").on("click", function () {
+            repo = $("#repo-select").val();
+            status = $("#status-select").val();
+            token = $("#github-code").val();
+
+            project_text = $("#repo-select option:selected").text();
+
+            readIssues(repo + "?per_page=100&page={page}&state=" + status, token, 0);
+        });
+    });
+
+    issuesList = [];
+
+    function readIssues(project_uri, token, page) {
+        $.ajax({
+            url: project_uri.replace("{page}", page),
+            data: 'data',
+            headers: { Authorization: 'Bearer ' + token, Accept: "application/vnd.github.inertia-preview+json" },
+            success: function (data) {
+                ret = populateIssuesData(data);
+                if (ret) {
+                    readIssues(project_uri, token, page + 1);
+                } else {
+                    finishData();
+                }
+            }
+        });
+    }
+
+    function populateIssuesData(data) {
+        ret = false;
+        if (data.length > 0) {
+            data.forEach(ele => storeData(ele));
+            ret = true;
+        }
+        return ret;
+    }
+
+    function storeData(ele) {
+        issuesList.push(ele);
+    }
+
+    function finishData() {
+        issuesList.forEach(function (issue) {
+            if (issue.pull_request == undefined) {
+                milestone = ""
+                if (issue.milestone) {
+                    milestone = issue.milestone.title;
+                }
+                $("#issues-data").append("<tr><th>" + issue.number + "</th><td>" + issue.title + "</td><td>" + getLabels(issue) + "</td><td>" + milestone + "</td></tr>");
+            }
+        });
+        console.log(issuesList);
+        console.log("Done!~");
+    }
+
+    function getLabels(issue) {
+        labels = [];
+        issue.labels.forEach(function (label) {
+            labels.push("<span style='color:#" + label.color + "'>" + label.name + "<span>");
+        });
+
+        return labels.join();
+    }
+</script>
