@@ -208,6 +208,18 @@ defaults:
     values:
         lang: "en"
         ref: "productdev_techdebt"
-        
+  - 
+    scope:
+      path: "fr/outils.md"
+    values:
+      lang: "fr"
+      ref: "tools"
+  - 
+    scope:
+        path: "en/tools.md"
+    values:
+        lang: "en"
+        ref: "tools"
+
 optional_front_matter:
   remove_originals: true
