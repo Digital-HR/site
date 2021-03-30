@@ -30,6 +30,20 @@ This holistic UX approach allows the creation of components and interactions for
 
 ...
 
+
+
+### Deliverables
+
+The design team on completion of the first Phase provides the following deliverables.
+* Low Fidelity Mockups
+** These provide recommendations for changes.
+* Mockup Walkthroughs and/or Interactable Prototypes
+** These demonstrate the flow of major interactions.
+* Client Review
+** As with Product Development, this is an opportunity to ask questions and provide feedback for the next cycle.
+* High-Fidelity Mockups (If Necessary)
+** Are built as prior to implementation to support the implementation by the Product Development Team.
+
 ## Phase 2) Testing
 
 ...
@@ -46,19 +60,10 @@ In general:
 • An optimal user experience requires a well-designed user interface, and an optimal user interface is meaningless without a well-designed user experience
 • It is also important to note that in designing an optimal user experience, micro-interactions are just as important as the overall product flow. As well, accessibility considerations are made at all steps of the design process (that is, designing intuitive and accessible interactions requires time up front, but saves time later).
 
-
 Step 3: UX Design Process
 Once the requirements are approved:
 • Designers to make recommendations (only within the scope of the requirements)
 • Designers can propose new ideas and solutions that can further enhance the UX (but again, only within the scope of the requirements), at their professional discretion.
 • Future ideas for improvement are welcome from the team/clients with the understanding that they will be added to the product backlog and that all ideas must be designed in consideration of the UX (that is any changes to the UX must go through approval process before being implemented)
 • An approval process for UX changes (regardless of how small) greatly reduces the likelihood of UX related bugs in the future.
-Step 4: Deliverables (& Optional: UI Design Process)
-• Recommendations to provided (via low fidelity mockups)
-• Mockups should demonstrate the flow of major interactions (designer to walkthrough the mockups, create clickable prototypes or both)
-• Clients to review the mockups with an opportunity to ask questions and provide feedback, with an understanding that new requirements will not be considered as part of this process
-• Mockups to be approved by the clients (based on the approved requirements)
-• Prototypes to be built for user testing (test environment)
-• Feedback from user testing to be incorporated into revisions (iterative process) until all major issues are resolved
-• Clients to approve user tested prototypes (test environment) for production.
-• If necessary high-fidelity mockups to be built prior to production (specifically for a new design system with yet to be defined components)
+
