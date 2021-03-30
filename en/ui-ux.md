@@ -1,6 +1,6 @@
 # UX/UX Design
 
-Design work is an important part of [Product Development](./product-development.html), but is considered 'off-cycle'. Roughly three "sprints" worth of work are required to complete work, but buffer times may be required between Testing and Implementation based on results and findings. 
+Design work is an important iterative part of [Product Development](./product-development.html), but is considered 'off-cycle'. Roughly three "sprints" worth of work are required to complete work, but buffer times may be required between Testing and Implementation based on results and findings. 
 
 ## Phase 1) Design
 
