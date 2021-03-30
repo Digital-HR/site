@@ -4,6 +4,16 @@ Design work is an important part of [Product Development](./product-development.
 
 ## Phase 1) Design
 
+### Research & Requirements Gathering
+
+...
+
+### Planning and Organization
+
+...
+
+### UX Design Process
+
 ...
 
 ## Phase 2) Testing
