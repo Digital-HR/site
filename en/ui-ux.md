@@ -6,7 +6,17 @@ Design work is an important part of [Product Development](./product-development.
 
 ### Research & Requirements Gathering
 
-...
+To deliver an optimal user experience, the designer team needs to have clear requirements. These are a combination of the [Product Vision](./product-development.html#product-vision), research and constraints gathered from Stakeholders, Management and Clients.
+
+* What problem is being solved?
+* How will solving this problem improve the user experience?
+* How does this solution help the end user reach their goals? (Or a specific goal?)
+
+Ideally these requirements and constraints should be based on the end goals of the product. 
+
+User stories and journey maps are a part of establishing and identifying future product requirements, and can greatly assist designers in understanding specific goals.
+
+Finally, evidence and metrics provides a basis for designers to make informed, evidence based decisions.
 
 ### Planning and Organization
 
@@ -32,14 +42,6 @@ In general:
 • An optimal user experience requires a well-designed user interface, and an optimal user interface is meaningless without a well-designed user experience
 • It is also important to note that in designing an optimal user experience, micro-interactions are just as important as the overall product flow. As well, accessibility considerations are made at all steps of the design process (that is, designing intuitive and accessible interactions requires time up front, but saves time later).
 
-
-
-
-Step 1: Identify Requirements
-• In order to deliver an optimal user experience designers need to have clear requirements (What problem is being solved? How will solving this problem improve the user experience? How does this solution help the end user reach their goals (or a specific goal)?)
-• Ideally, requirements should stem from user needs integrated into product goals
-• Ideally, user stories and journey maps should be part of establishing and identifying future product requirements (these elements greatly assist designers in understanding specific goals)
-• Any supporting evidence (metrics) would be helpful as a point of comparison for the future and also help users gauge the problem space
 
 
 
