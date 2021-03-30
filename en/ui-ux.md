@@ -28,9 +28,7 @@ This holistic UX approach allows the creation of components and interactions for
 
 ### UX Design Process
 
-...
-
-
+The design team makes recommendations for changes to the product within the scope of the requirements and constraints. They propose new ideas and solutions if it could further enhance the UX, at their professional discretion. 
 
 ### Deliverables
 
@@ -59,11 +57,3 @@ In general:
 • As well timelines for building an application with a pre-defined design system is very different than building one based on a new design system (each component needs to be designed and the library will continue to grow as the application expands)
 • An optimal user experience requires a well-designed user interface, and an optimal user interface is meaningless without a well-designed user experience
 • It is also important to note that in designing an optimal user experience, micro-interactions are just as important as the overall product flow. As well, accessibility considerations are made at all steps of the design process (that is, designing intuitive and accessible interactions requires time up front, but saves time later).
-
-Step 3: UX Design Process
-Once the requirements are approved:
-• Designers to make recommendations (only within the scope of the requirements)
-• Designers can propose new ideas and solutions that can further enhance the UX (but again, only within the scope of the requirements), at their professional discretion.
-• Future ideas for improvement are welcome from the team/clients with the understanding that they will be added to the product backlog and that all ideas must be designed in consideration of the UX (that is any changes to the UX must go through approval process before being implemented)
-• An approval process for UX changes (regardless of how small) greatly reduces the likelihood of UX related bugs in the future.
-
