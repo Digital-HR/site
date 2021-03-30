@@ -1,6 +1,6 @@
 # UX/UX Design
 
-Design work is an important part of [Product Development](./product-development.html), but is considered 'off-cycle'. 
+Design work is an important part of [Product Development](./product-development.html), but is considered 'off-cycle'. Roughly three "sprints" worth of work are required to complete work, but buffer times may be required between Testing and Implementation based on results and findings. 
 
 ## Phase 1) Design
 
@@ -49,10 +49,3 @@ Step 4: Deliverables (& Optional: UI Design Process)
 • Feedback from user testing to be incorporated into revisions (iterative process) until all major issues are resolved
 • Clients to approve user tested prototypes (test environment) for production.
 • If necessary high-fidelity mockups to be built prior to production (specifically for a new design system with yet to be defined components)
-
-Timelines (very general):
-• Sprint 1: Design
-• Sprint 2: Testing
-• Sprint 3: Implementation
-• (Ideally, there should be a cushion sprint between design and implementation)
-
