@@ -21,11 +21,19 @@ In general:
 • As well timelines for building an application with a pre-defined design system is very different than building one based on a new design system (each component needs to be designed and the library will continue to grow as the application expands)
 • An optimal user experience requires a well-designed user interface, and an optimal user interface is meaningless without a well-designed user experience
 • It is also important to note that in designing an optimal user experience, micro-interactions are just as important as the overall product flow. As well, accessibility considerations are made at all steps of the design process (that is, designing intuitive and accessible interactions requires time up front, but saves time later).
+
+
+
+
 Step 1: Identify Requirements
 • In order to deliver an optimal user experience designers need to have clear requirements (What problem is being solved? How will solving this problem improve the user experience? How does this solution help the end user reach their goals (or a specific goal)?)
 • Ideally, requirements should stem from user needs integrated into product goals
 • Ideally, user stories and journey maps should be part of establishing and identifying future product requirements (these elements greatly assist designers in understanding specific goals)
 • Any supporting evidence (metrics) would be helpful as a point of comparison for the future and also help users gauge the problem space
+
+
+
+
 
 Step 2: Planning and Organizing
 • Designers to group requirements logically into issues (based on functionality and flow and in consideration of technical requirements)
@@ -33,8 +41,11 @@ Step 2: Planning and Organizing
 • Designers must consider and be aware of technical requirements when grouping requirements into issues
 • When creating issues (GitHub), designers will consider present and future interactions. By doing so bugs stemming from an incomplete flow/ux can be minimized or eliminated completely
 • A holistic UX approach to designing components and interactions will result in a well-built and resilient product
-Step 3: UX Design Process
 
+
+
+
+Step 3: UX Design Process
 Once the requirements are approved:
 • Designers to make recommendations (only within the scope of the requirements)
 • Designers can propose new ideas and solutions that can further enhance the UX (but again, only within the scope of the requirements), at their professional discretion.
