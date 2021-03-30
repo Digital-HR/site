@@ -20,7 +20,11 @@ Finally, evidence and metrics provides a basis for designers to make informed, e
 
 ### Planning and Organization
 
-...
+The designer team groups requirements logically into issues that are based on functionality and flow with a consideration of technical requirements. This prioritization is based on related functionality and flow rather than the Demon or Priority in contrast from Product Development to eliminate repitation, overlap and unncessary revision.
+
+Constraints are analyzed, and analysis of any current in flight development is done to minimize or eliminate bugs stemming from an incomplete flow/user experience.
+
+This holistic UX approach allows the creation of components and interactions for a well-built and resilient product.
 
 ### UX Design Process
 
@@ -41,20 +45,6 @@ In general:
 • As well timelines for building an application with a pre-defined design system is very different than building one based on a new design system (each component needs to be designed and the library will continue to grow as the application expands)
 • An optimal user experience requires a well-designed user interface, and an optimal user interface is meaningless without a well-designed user experience
 • It is also important to note that in designing an optimal user experience, micro-interactions are just as important as the overall product flow. As well, accessibility considerations are made at all steps of the design process (that is, designing intuitive and accessible interactions requires time up front, but saves time later).
-
-
-
-
-
-
-Step 2: Planning and Organizing
-• Designers to group requirements logically into issues (based on functionality and flow and in consideration of technical requirements)
-• That is, issues to prioritized based on related functionality/flows rather than the demand for a specific feature (this eliminates repetition, overlap and unnecessary revisions in the future)
-• Designers must consider and be aware of technical requirements when grouping requirements into issues
-• When creating issues (GitHub), designers will consider present and future interactions. By doing so bugs stemming from an incomplete flow/ux can be minimized or eliminated completely
-• A holistic UX approach to designing components and interactions will result in a well-built and resilient product
-
-
 
 
 Step 3: UX Design Process
