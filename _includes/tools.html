@@ -49,7 +49,7 @@
                 if (issue.milestone) {
                     milestone = issue.milestone.title;
                 }
-                $("#issues-data").append("<tr><th>" + issue.number + "</th><td>" + issue.title + "</td><td>" + getLabels(issue) + "</td><td>" + milestone + "</td></tr>");
+                $("#issues-data").append("<tr><th>" + issue.number + "</th><td>" + issue.title + "</td><td>" + getLabels(issue) + "</td><td>" + milestone + "</td><td>"+issue.user.login+"</td></tr>");
             }
         });
         console.log(issuesList);
