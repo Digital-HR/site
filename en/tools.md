@@ -25,10 +25,12 @@ To use this tool, [create a personal access token](https://docs.github.com/en/gi
                 <th>Title</th>
                 <th>Labels</th>
                 <th>Milestone</th>
+                <th>Created By</th>
             </tr>
         </thead>
         <tbody>
             <th>0</th>
+            <td>Sample</td>
             <td>Sample</td>
             <td>Sample</td>
             <td>Sample</td>
