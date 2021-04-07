@@ -10,14 +10,14 @@ The HR GO App provides critical HR information to public service managers and st
 
 * [Link to Application](https://www.canada.ca/en/mobile.html#HRGO)
 
-### DNDCareers
+### DND Careers
 
-DND Careers is a Web App that enables candidates to create an online profile and have the opportunity to be contacted for a position.
+DND Careers is a web app that enables candidates to create an online profile and have the opportunity to be contacted for a position.
 
 * [Link to Application](https://civilian-careers-defence.canada.ca/)
 
 ## Services
 
-* R&D
+* R & D
 * [Product Development](./product-development.html)
 * UI/UX Design
