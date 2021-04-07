@@ -1,6 +1,6 @@
 # Resources
 
-We don't believe in reinventing the wheel, here's the resources we use to support our development efforts.
+We don't believe in reinventing the wheel: here are some resources we use to support our development efforts.
 
 ## Process Resources
 * [SCRUM Guide](https://www.scrumguides.org/scrum-guide.html)
