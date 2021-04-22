@@ -23,7 +23,7 @@ In contrast to the "Sponsor" this isn't an individual who pays for the product, 
 # Sprintly Responsibilties
 
 * Evaluate Sprint Progress with the Scrum Master, and participate in retrospectives to help improve the teams performance.
-* Evaluate if work in a Sprint should go live.
+* Evaluate if work in a Sprint should go live, and assist in planning releases.
 * Gain buy-in, and liason with the Stakeholders, Clients and End Users.
 * Deliver clear instructions to developers.
 * Supports and "runs" the Demo/Review for each Sprint.
