@@ -36,7 +36,7 @@ A strong Product Owner is highly interactive, collaborative, and looks to help i
 * Delivers clear task specifications to developers.
 * Supports and "runs" the Demo/Review for each Sprint.
 
-# Long-Term Responsibilites
+# Long-Term Responsibilities
 
 * Creates journey maps.
 * Researches the market for innovative ideas to incorporate and share.
