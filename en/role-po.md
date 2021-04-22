@@ -13,6 +13,7 @@ In contrast to the "Sponsor" this isn't an individual who pays for the product, 
 * Updates items and adds items to the backlog for the product based on all stakeholders feedback.
 * Prioritizes items based on the organizations overall strategy.
 * Maps out dependencies for items (with assistance from the Scrum Master and Developers) to establish working level order of activities.
+* Attend and participate in Teams Daily Standup
 
 # Weekly Responsibilties
 
