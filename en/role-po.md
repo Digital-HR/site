@@ -8,6 +8,14 @@ The word "owner" in Product Owner defines the Ownership of the Product.
 
 In contrast to the "Sponsor" this isn't an individual who pays for the product, or controls the organization. This is an individual given authority to make decisions for the best interest of the Product at the working level.
 
+## "Market Understanding"
+
+A strong Product Owner is able to research, evaluate and understand market trends around the product or products. They can evaluate needs not just from the stakeholder and subject matter experts, but from all stakeholders who use, participate or are impacted by the product.
+
+## "Collaboration"
+
+A strong Product Owner is highly interactive, collaborative, and looks to help improve communication, transparency and openness with all participants.
+
 # Daily Responsibilities
 
 * Updates items and adds items to the backlog for the product based on all stakeholders feedback.
