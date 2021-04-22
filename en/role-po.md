@@ -4,7 +4,7 @@ The Product Owner provides organization, and helps build vision and direction in
 
 ## "Ownership"
 
-The word "owner" in Product Owner defines the Ownership of the Product.
+The word "owner" in Product Owner refers to the responsibilities taken on in this role. They agree to be the primary care giver to ensure that the vision of the product is clearly laid out.
 
 In contrast to the "Sponsor" this isn't an individual who pays for the product, or controls the organization. This is an individual given authority to make decisions for the best interest of the Product at the working level.
 
