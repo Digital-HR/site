@@ -18,29 +18,29 @@ A strong Product Owner is highly interactive, collaborative, and looks to help i
 
 # Daily Responsibilities
 
-* Updates items and adds items to the backlog for the product based on all stakeholders feedback.
-* Prioritizes items based on the organizations overall strategy.
-* Maps out dependencies for items (with assistance from the Scrum Master and Developers) to establish working level order of activities.
-* Attend and participate in Teams Daily Standup
+* Updates items and adds items to the backlog for the product based on all stakeholders' feedback.
+* Prioritizes items based on the organization's overall strategy.
+* Maps out dependencies for items (with assistance from the Scrum Master and Developers) to establish working level order of tasks.
+* Attends and participate in Team's Daily Standup
 
 # Weekly Responsibilties
 
-* Evaluating if Tasks Completed are acceptable. 
+* Evaluates if Tasks Completed are acceptable. 
 * Meets with Stakeholders to consider their needs.
 
 # Sprintly Responsibilties
 
-* Evaluate Sprint Progress with the Scrum Master, and participate in retrospectives to help improve the teams performance.
-* Evaluate if work in a Sprint should go live, and assist in planning releases.
-* Gain buy-in, and liason with the Stakeholders, Clients and End Users.
-* Deliver clear instructions to developers.
+* Evaluates Sprint Progress with the Scrum Master, and participates in retrospectives to help improve the team's way of working.
+* Evaluates if work in a Sprint should go live, and assists in planning releases..
+* Gains buy-in, and liases with the Stakeholders, Clients and End Users.
+* Delivers clear task specifications to developers.
 * Supports and "runs" the Demo/Review for each Sprint.
 
-# Longterm Responsibilites
+# Long-Term Responsibilites
 
-* Create journey maps.
-* Research the market for innovative ideas to incorporate and share.
-* Research and support the Scrum Master, and Technical Leads in understanding modern and sustainable development processes.
+* Creates journey maps.
+* Researches the market for innovative ideas to incorporate and share.
+* Researches and support the Scrum Master, and Technical Leads in understanding modern and sustainable development processes.
 * Helps management juggle budget, time, scope and priority for the project.
 * Develops and maintains the product roadmap based on working level activity.
 * Helps ensure the team is line with the product goals.
