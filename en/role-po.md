@@ -13,6 +13,7 @@ In contrast to the "Sponsor" this isn't an individual who pays for the product, 
 * Updates items and adds items to the backlog for the product based on all stakeholders' feedback.
 * Prioritizes items based on the organization's overall strategy.
 * Maps out dependencies for items (with assistance from the Scrum Master and Developers) to establish working level order of tasks.
+* Attends and participate in Team's Daily Standup
 
 # Weekly Responsibilties
 
@@ -21,8 +22,8 @@ In contrast to the "Sponsor" this isn't an individual who pays for the product, 
 
 # Sprintly Responsibilties
 
-* Evaluates Sprint Progress with the Scrum Master, and participate in retrospectives to help improve the team's way of working.
-* Evaluates if work in a Sprint should go live.
+* Evaluates Sprint Progress with the Scrum Master, and participates in retrospectives to help improve the team's way of working.
+* Evaluates if work in a Sprint should go live, and assists in planning releases..
 * Gains buy-in, and liases with the Stakeholders, Clients and End Users.
 * Delivers clear task specifications to developers.
 * Supports and "runs" the Demo/Review for each Sprint.
