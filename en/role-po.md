@@ -46,4 +46,4 @@ A strong Product Owner is highly interactive, collaborative, and looks to help i
 * Helps ensure the team is line with the product goals.
 
 ## "Product Ownership in a Nutshell" (English Only)
-{% include youtube.html id=502ILHjX9EE %}
+{% include youtube.html id="502ILHjX9EE" %}
