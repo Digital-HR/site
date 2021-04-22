@@ -23,12 +23,12 @@ A strong Product Owner is highly interactive, collaborative, and looks to help i
 * Maps out dependencies for items (with assistance from the Scrum Master and Developers) to establish working level order of tasks.
 * Attends and participate in Team's Daily Standup
 
-# Weekly Responsibilties
+# Weekly Responsibilities
 
 * Evaluates if Tasks Completed are acceptable. 
 * Meets with Stakeholders to consider their needs.
 
-# Sprintly Responsibilties
+# Sprintly Responsibilities
 
 * Evaluates Sprint Progress with the Scrum Master, and participates in retrospectives to help improve the team's way of working.
 * Evaluates if work in a Sprint should go live, and assists in planning releases..
