@@ -10,7 +10,7 @@ In contrast to the "Sponsor" this isn't an individual who pays for the product, 
 
 ## "Market Understanding"
 
-A strong Product Owner is able to research, evaluate and understand market trends around the product or products. They can evaluate needs not just from the stakeholder and subject matter experts, but from all stakeholders who use, participate or are impacted by the product.
+A strong Product Owner is able to research, evaluate and understand market trends around the product or products. They can evaluate needs not just from the client and subject matter experts, but from all stakeholders who use, participate in or are impacted by the product.
 
 ## "Collaboration"
 
@@ -31,7 +31,7 @@ A strong Product Owner is highly interactive, collaborative, and looks to help i
 # Sprintly Responsibilities
 
 * Evaluates Sprint Progress with the Scrum Master, and participates in retrospectives to help improve the team's way of working.
-* Evaluates if work in a Sprint should go live, and assists in planning releases..
+* Evaluates if work in a Sprint should go live, and assists in planning releases.
 * Gains buy-in, and liases with the Stakeholders, Clients and End Users.
 * Delivers clear task specifications to developers.
 * Supports and "runs" the Demo/Review for each Sprint.
