@@ -10,7 +10,7 @@ The team's current focus is on efforts in the HR-GO-RH Application and the DNDCa
 
 Prior to any work, the team needs to understand why the product is being created. This will help them ensure they are building something of value. The team focuses on products that are effecient, and reduce manual or repetitive workloads, and that they aren't just taking a process and making it electronic.
 
-# The Teams Agile Methodology
+# The Team's Agile Methodology
 The Agile method of work the team uses is an iterative development methodology that values human communication and feedback, adapting to change, and producing work results. The team follows four guiding values:
 
 * Individuals and Interactions over process and tools;
@@ -20,7 +20,7 @@ The Agile method of work the team uses is an iterative development methodology t
 
 ![Agile Methodology Infographic](/site/assets/Agil_Infographic.jpg)
 
-The team has six milestones as well:
+The team has six rituals as well:
 * [Product Backlog](#product-backlog)
 * [Sprint Planning](#sprint-planning)
 * [Sprint Backlog](#sprint-backlog)
@@ -30,7 +30,7 @@ The team has six milestones as well:
 
 ## Product Backlog
 
-The Product Backlog is a list of requirements, or tasks to complete in order to develop a product that meets the clients needs. It is also used as the team's way to track the work they've completed, and the priority of each request. Each task is assigned a type based on the task to be completed :
+The Product Backlog is a list of requirements, or tasks to complete in order to develop a product that meets the clients needs. It is also used as the team's way to track the work they've completed, and the priority of each request. Each task is assigned a type based on the task to be completed:
 
 * Bugs: Something that isn't working as intended.
 * Enhancements: Updates in functionality or new features.
@@ -42,7 +42,7 @@ The Product Backlog is a list of requirements, or tasks to complete in order to 
 
 ## Sprint Planning
 
-Prior to any work, the team meets to plan the work going into the Sprint. After items are selected, the team uses an activity called "Planning Poker" to make estimations around the workload of tasks.
+Prior to any work, the team meets to plan the work going into the Sprint. After items are selected, the team uses an activity called "Planning Poker" to estimate the workload of tasks.
 
 ## Sprint Backlog
 
@@ -54,7 +54,7 @@ The Sprint Review is an opportunity for the team to share the progress of the Sp
 
 ### Testing & Release!
 
-At the end of the three-week window, the team demonstrate to the client the progress completed within the sprint. We complete further tests, and then releases the completed tasks. Lessons learned are captured and documented to ensure these efforts are not wasted and can help improve team efficiency (velocity) for future sprints.
+At the end of the three-week window, the team demonstrate to the client the progress completed within the sprint. We complete further tests, and then release the completed tasks. Lessons learned are captured and documented to ensure these efforts are not wasted and can help improve team efficiency (velocity) for future sprints.
 
 ## Sprint Retrospective
 
